@@ -1,0 +1,9 @@
+button, ul {
+    -ms-transform: translate(-30%, -30%);
+    transform: translate(600px, -30%);
+}
+
+ul {
+    padding-top: 10px;
+    padding-bottom: -5px;
+}
