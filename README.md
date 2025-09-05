@@ -1,27 +1,125 @@
-# HelloWorld
+***
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+# Basic Angular Page
 
-## Development server
+Welcome to the **Basic Angular Page** project! This repository contains a simple static Angular page built for learning and practice purposes.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+***
 
-## Code scaffolding
+## About
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project demonstrates a basic static webpage created using Angular CLI version 14.2.9. It serves as a foundation for understanding Angular component structure, routing, and development workflows with Angular CLI.
+
+***
+
+## Features
+
+- Static single-page Angular application.
+- Modular Angular components.
+- Basic routing setup (if applicable).
+- Simple and clean UI.
+- Ideal for beginners exploring Angular framework fundamentals.
+
+***
+
+## Technologies Used
+
+- **Angular CLI v14.2.9**
+- **TypeScript**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+***
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+- Angular CLI installed globally
+
+### Installation & Running Locally
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/nakks-007/Basic-Angular-Page.git
+   ```
+2. Navigate into the project folder:
+   ```
+   cd Basic-Angular-Page
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Start the Angular development server:
+   ```
+   ng serve
+   ```
+5. Open your browser at:
+   ```
+   http://localhost:4200/
+   ```
+
+***
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To build the project for production, run:
+```
+ng build
+```
+The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+***
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Testing
 
-## Running end-to-end tests
+### Unit Tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Run unit tests with:
+```
+ng test
+```
 
-## Further help
+### End-to-End Tests
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Run end-to-end tests with:
+```
+ng e2e
+```
+(Note: Additional setup is needed for e2e tests.)
+
+***
+
+## Project Structure
+
+```
+/Basic-Angular-Page
+|-- /src                 # Angular source files
+|-- angular.json         # Angular CLI configuration
+|-- package.json         # NPM dependencies and scripts
+```
+
+***
+
+## Contribution
+
+Contributions and feedback are welcome! Please fork the repository and submit pull requests for improvements or suggestions.
+
+***
+
+## Author
+
+**Naga Muruga (nakks-007)**
+
+- GitHub: [nakks-007](https://github.com/nakks-007)
+- Portfolio: [naga-muruga-portfolio.netlify.app](https://naga-muruga-portfolio.netlify.app/)
+
+***
+
+Thank you for exploring this project!  
+Learn the basics of Angular and build upon this foundation.
+
+***
